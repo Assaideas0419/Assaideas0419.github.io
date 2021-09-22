@@ -1,2 +1,3 @@
 # Assaideas0419.github.io
-![Tzuyu](Tzuyu.png)
+[Tzuyu](Tzuyu.jpg)
+![Tzuyu](Tzuyu.jpg)
